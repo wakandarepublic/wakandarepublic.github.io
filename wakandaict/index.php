@@ -1,8 +1,8 @@
 <?php include "header.php";
-session_start();
+/*session_start();
 if (isset($_SESSION['SESS_NAME'])!="") {
 	header("Location: voter.php");
-}
+}*/
 ?>
 <?php global $msg; echo $msg;?>
 

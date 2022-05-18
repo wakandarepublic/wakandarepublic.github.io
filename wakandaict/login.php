@@ -25,8 +25,6 @@ Password :
 <br>
 <br>
 <input type="submit" name="login" value="login" > 
-<a href="login_admin.php"> <input type="submit" name="login" value="login as admin" > </a>
-
 </form></font>
 </center>
 
